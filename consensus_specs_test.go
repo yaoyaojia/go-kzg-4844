@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	gokzg4844 "github.com/crate-crypto/go-kzg-4844"
-	"github.com/crate-crypto/go-kzg-4844/internal/kzg"
 	"github.com/stretchr/testify/require"
+	gokzg4844 "github.com/yaoyaojia/go-kzg-4844"
+	"github.com/yaoyaojia/go-kzg-4844/internal/kzg"
 	"gopkg.in/yaml.v2"
 )
 

@@ -1,4 +1,4 @@
-module github.com/crate-crypto/go-kzg-4844
+module github.com/yaoyaojia/go-kzg-4844
 
 go 1.20
 

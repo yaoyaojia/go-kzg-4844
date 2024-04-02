@@ -3,8 +3,8 @@ package gokzg4844_test
 import (
 	"testing"
 
-	gokzg4844 "github.com/crate-crypto/go-kzg-4844"
 	"github.com/stretchr/testify/require"
+	gokzg4844 "github.com/yaoyaojia/go-kzg-4844"
 )
 
 // Globally initialize a ctx for tests.
